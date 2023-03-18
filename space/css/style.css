@@ -1,0 +1,29 @@
+
+body
+{
+
+    background-image: radial-gradient(burlywood,coral,rgb(119, 11, 110));
+
+
+    font-family: 'Signika', sans-serif;
+
+
+}
+
+a
+{
+
+    color: darkblue;
+
+}
+a:hover
+{
+    color: red;
+    font-size: larger;
+}
+
+input[type=submit], select
+{
+    cursor: pointer;
+}
+
